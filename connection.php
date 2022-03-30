@@ -1,6 +1,6 @@
 <?php
 
-$hostDB = '127.0.0.1';
+$hostDB = 'john.db.elephantsql.com';
 $portDB = '5432';
 $nameDB = 'jihwegxb';
 $userDB = 'jihwegxb';
